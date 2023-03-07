@@ -1,0 +1,17 @@
+/* BASIC STYLES HERE */
+
+.skin-1 {
+    filter: drop-shadow(2px 2px 5px rgb(53, 252, 39));
+}
+
+.skin-2 {
+    filter: drop-shadow(2px 2px 5px gold);
+}
+
+.skin-3 {
+    filter: drop-shadow(2px 2px 5px #2a63ff);
+}
+
+.active-emoji {
+    font-size: 200px;
+}
